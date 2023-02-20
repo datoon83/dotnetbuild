@@ -1,4 +1,4 @@
-// .github\workflows
+# .github\workflows
 name: Build And Test
 
 on:
